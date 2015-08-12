@@ -1,4 +1,0 @@
-multi|crack_sub_domain|multi/crack_sub_domain
-multi|sameIP_web[chinaz]|multi/sameIP_web[chinaz]
-multi|scan_ip_port|multi/scan_ip_port
-multi|what_cms|multi/what_cms
